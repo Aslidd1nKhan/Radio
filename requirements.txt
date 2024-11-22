@@ -1,6 +1,5 @@
 Pyrogram
 TgCrypto
-pytgcalls[pyrogram]
 ffmpeg-python
 python-dotenv
 wheel
